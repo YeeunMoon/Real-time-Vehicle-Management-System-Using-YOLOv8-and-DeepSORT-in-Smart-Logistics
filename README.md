@@ -2,5 +2,5 @@
 
 
 **test**
-https://github.com/YeeunMoon/Real-time-Vehicle-Management-System-Using-YOLOv8-and-DeepSORT-in-Smart-Logistics/assets/64064088/1aca5fe1-a04f-4e9d-99f8-5a66b0d08d21
+https://github.com/YeeunMoon/Real-time-Vehicle-Management-System-Using-YOLOv8-and-DeepSORT-in-Smart-Logistics/assets/64064088/0db9cea5-78cd-49aa-8b04-a08de3f92202
 
